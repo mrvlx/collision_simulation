@@ -8,7 +8,7 @@ Simulasi berjalan secara real-time dan menampilkan jumlah tabrakan serta waktu e
 
 ---
 
-## AKGORITMA YANG DIGUNAKAN
+## ALGORITMA YANG DIGUNAKAN
 ### 1. Brute Force Collision Detection
 Algoritma Brute Force bekerja dengan cara membandingkan setiap pasangan bola satu per satu.
 
