@@ -47,7 +47,7 @@ Kompleksitas waktu:
 
 ---
 
-## FITUR PRPGRAM
+## FITUR PROGRAM
 
 ### FITUR UTAMA
 - Simulasi bola 2D secara real-time
