@@ -1,6 +1,6 @@
-# Demo Struktur Data – Collision Detection Menggunakan QuadTree
+# FP STRUKTUR DATA
 
-## Deskripsi
+## DESKRIPSI
 Program ini merupakan simulasi collision detection bola 2D menggunakan bahasa C++ dan library SFML.  
 Tujuan utama program adalah membandingkan kinerja algoritma **Brute Force** dan **QuadTree** dalam mendeteksi tabrakan antar objek.
 
@@ -8,8 +8,7 @@ Simulasi berjalan secara real-time dan menampilkan jumlah tabrakan serta waktu e
 
 ---
 
-## Algoritma yang Digunakan
-
+## AKGORITMA YANG DIGUNAKAN
 ### 1. Brute Force Collision Detection
 Algoritma Brute Force bekerja dengan cara membandingkan setiap pasangan bola satu per satu.
 
@@ -48,21 +47,21 @@ Kompleksitas waktu:
 
 ---
 
-## Fitur Program
+## FITUR PRPGRAM
 
-### Fitur Utama
+### FITUR UTAMA
 - Simulasi bola 2D secara real-time
 - Deteksi tabrakan antar bola
 - Pantulan bola terhadap batas window
 - Perbandingan dua metode collision detection
 
-### Informasi yang Ditampilkan
+### INFORMASI YANG DITAMPILKAN
 - Mode algoritma yang digunakan
 - Jumlah bola dalam simulasi
 - Jumlah tabrakan yang terdeteksi
 - Waktu eksekusi algoritma
 
-### Kontrol Program
+### KONTROL PROGRAM
 | Input | Fungsi |
 |------|-------|
 | Spasi | Mengganti mode Brute Force / QuadTree |
@@ -71,15 +70,7 @@ Kompleksitas waktu:
 
 ---
 
-## Teknologi yang Digunakan
-- Bahasa pemrograman: C++
-- Library grafis: SFML
-- Struktur data: QuadTree
-- Paradigma: Object-Oriented Programming
-
----
-
-## Tujuan Pembelajaran
+## TUJUAN PEMBELAJARAN
 - Memahami konsep collision detection
 - Membandingkan kompleksitas algoritma O(n²) dan O(n log n)
 - Menerapkan struktur data QuadTree pada simulasi grafis
