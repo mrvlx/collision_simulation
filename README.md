@@ -79,7 +79,7 @@ Kompleksitas waktu:
 ---
 
 ## SCREEN CAPTURE
-![BRUTEFORCE](path/to/C:/Users/DELL/Documents/INI TES SFML/collision_simulation/Screenshot (669).png)
-![QUADTREE](path/to/C:/Users/DELL/Documents/INI TES SFML/collision_simulation/Screenshot (668).png)
+![BRUTEFORCE](Screenshot (669).png)
+![QUADTREE](Screenshot (668).png)
 
 
