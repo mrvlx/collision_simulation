@@ -75,3 +75,11 @@ Kompleksitas waktu:
 - Membandingkan kompleksitas algoritma O(n²) dan O(n log n)
 - Menerapkan struktur data QuadTree pada simulasi grafis
 - Mengamati pengaruh optimasi algoritma terhadap performa program
+
+---
+
+## SCREEN CAPTURE
+![BRUTEFORCE](path/to/C:/Users/DELL/Documents/INI TES SFML/collision_simulation/Screenshot (669).png)
+![QUADTREE](path/to/C:/Users/DELL/Documents/INI TES SFML/collision_simulation/Screenshot (668).png)
+
+
