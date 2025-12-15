@@ -79,7 +79,7 @@ Kompleksitas waktu:
 ---
 
 ## SCREEN CAPTURE
-![BRUTEFORCE](src\Screenshot (669).png)
-![QUADTREE](src\Screenshot (668).png)
+![BRUTEFORCE](collision_simulation/src/Screenshot (669).png)
+![QUADTREE](collision_simulation/src/Screenshot (668).png)
 
 
