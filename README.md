@@ -109,8 +109,8 @@ CODE DARI ALGORITMA QUADTREE:
    
    a. 50 BALLS
    
-   https://github.com/mrvlx/collision_simulation/issues/1#issue-3735871427
-   
+
+
    b. 350 BALLS
    
    ![BRUTE FORCE](vids/BFVID2.gif)
@@ -119,7 +119,7 @@ CODE DARI ALGORITMA QUADTREE:
    
    a. 50 BALLS
    
-   ![QUADTREE](vids/QTVID1.gif)
+  https://github.com/user-attachments/assets/04f3e657-4cd7-46a5-8861-053f22d5a65a
    
    b. 350 BALLS
    
