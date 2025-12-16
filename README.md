@@ -113,7 +113,7 @@ CODE DARI ALGORITMA QUADTREE:
 
    b. 350 BALLS
    
-   https://github.com/user-attachments/assets/00370de1-464c-45ad-a2de-15feb2c9dc02
+   https://github.com/user-attachments/assets/aab00fdd-bb67-4ba5-bf62-5862ed814863
 
 2. QuadTree
    
