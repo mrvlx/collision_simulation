@@ -29,6 +29,8 @@ Kompleksitas waktu:
 - O(n²)
 - Kurang efisien untuk jumlah objek yang besar
 
+![BRUTE FORCE](images/BRUTEFORCECODE.png)
+
 ---
 
 ### 2. QuadTree Collision Detection
@@ -44,6 +46,8 @@ Langkah kerja:
 Kompleksitas waktu:
 - O(n log n) (rata-rata)
 - Lebih efisien dibandingkan Brute Force
+
+![BRUTE FORCE](images/QUADTREECODE.png)
 
 ---
 
@@ -68,6 +72,7 @@ Kompleksitas waktu:
 | Klik kanan mouse | Menambahkan bola baru |
 | Tutup window | Mengakhiri program |
 
+
 ---
 
 ## TUJUAN PEMBELAJARAN
@@ -77,6 +82,12 @@ Kompleksitas waktu:
 - Mengamati pengaruh optimasi algoritma terhadap performa program
 
 ---
+## OUTPUT DARI CODE
+1. Brute Force 
+![BRUTE FORCE](images/BRUTEFOCE.png)
+![BRUTE FORCE](images/BRUTEFORCE300+BALLZ.png)
 
-
+2. QuadTree 
+![QUADTREE](images/QUADTREE.png)
+![QUADTREE](images/QUADTREE300+BALLZ.png)
 
