@@ -109,11 +109,11 @@ CODE DARI ALGORITMA QUADTREE:
    
    a. 50 BALLS
    
-
+   https://github.com/user-attachments/assets/271f8648-1766-4040-9bfd-405c8e21d7db
 
    b. 350 BALLS
    
-   ![BRUTE FORCE](vids/BFVID2.gif)
+   https://github.com/user-attachments/assets/00370de1-464c-45ad-a2de-15feb2c9dc02
 
 2. QuadTree
    
@@ -123,4 +123,4 @@ CODE DARI ALGORITMA QUADTREE:
    
    b. 350 BALLS
    
-   ![QUADTREE](vids/QTVID2.gif)
+   https://github.com/user-attachments/assets/25b708ad-1492-4b58-8edf-ddeb17083089
