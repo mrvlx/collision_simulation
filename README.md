@@ -29,9 +29,8 @@ Kompleksitas waktu:
 - O(n²)
 - Kurang efisien untuk jumlah objek yang besar
 
+CODE DARI ALGORITMA BRUTEFORCE:
 ![BRUTE FORCE](images/BRUTEFORCECODE.png)
-
----
 
 ### 2. QuadTree Collision Detection
 QuadTree adalah struktur data yang membagi ruang dua dimensi menjadi empat bagian secara rekursif.  
@@ -47,6 +46,7 @@ Kompleksitas waktu:
 - O(n log n) (rata-rata)
 - Lebih efisien dibandingkan Brute Force
 
+CODE DARI ALGORITMA QUADTREE:
 ![BRUTE FORCE](images/QUADTREECODE.png)
 
 ---
