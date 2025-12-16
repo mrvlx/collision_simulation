@@ -83,11 +83,13 @@ Kompleksitas waktu:
 
 ---
 ## OUTPUT DARI CODE
+### SCREEN CAPTURE
 1. Brute Force 
-![BRUTE FORCE](images/BRUTEFOCE.png)
+![BRUTE FORCE](images/BRUTEFORCE.png)
 ![BRUTE FORCE](images/BRUTEFORCE300+BALLZ.png)
 
 2. QuadTree 
 ![QUADTREE](images/QUADTREE.png)
 ![QUADTREE](images/QUADTREE300+BALLZ.png)
 
+### SCREEN RECORD
