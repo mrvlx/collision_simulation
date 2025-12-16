@@ -85,26 +85,42 @@ Kompleksitas waktu:
 ## OUTPUT DARI CODE
 ### SCREEN CAPTURE
 1. Brute Force
-    a. 50 BALLS 
-    ![BRUTE FORCE](images/BRUTEFORCE.png)
-    b. 350 BALLS
-    ![BRUTE FORCE](images/BRUTEFORCE300+BALLZ.png)
+   
+   a. 50 BALLS 
+   
+   ![BRUTE FORCE](images/BRUTEFORCE.png)
+   
+   b. 350 BALLS
+   
+   ![BRUTE FORCE](images/BRUTEFORCE300+BALLZ.png)
 
 2. QuadTree 
-    a. 50 BALLS 
-    ![QUADTREE](images/QUADTREE.png)
-    b. 350 BALLS
-    ![QUADTREE](images/QUADTREE300+BALLZ.png)
+   
+   a. 50 BALLS 
+   
+   ![QUADTREE](images/QUADTREE.png)
+   
+   b. 350 BALLS
+   
+   ![QUADTREE](images/QUADTREE300+BALLZ.png)
 
 ### SCREEN RECORD
 1. Brute Force
-    a. 50 BALLS
-    ![BRUTE FORCE](vids/BFVID1.gif)
-    b. 350 BALLS
-    ![BRUTE FORCE](vids/BFVID2.gif)
+   
+   a. 50 BALLS
+   
+   ![BRUTE FORCE](vids/BFVID1.gif)
+   
+   b. 350 BALLS
+   
+   ![BRUTE FORCE](vids/BFVID2.gif)
 
 2. QuadTree
-    a. 50 BALLS
-    ![QUADTREE](vids/QTVID1.gif)
-    b. 350 BALLS
-    ![QUADTREE](vids/QTVID2.gif)
+   
+   a. 50 BALLS
+   
+   ![QUADTREE](vids/QTVID1.gif)
+   
+   b. 350 BALLS
+   
+   ![QUADTREE](vids/QTVID2.gif)
